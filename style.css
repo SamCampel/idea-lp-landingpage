@@ -164,3 +164,29 @@ header {
     color: #ddd;
     margin-bottom: 10px;
 }
+
+.testimonials {
+    padding: 80px 8%;
+}
+
+.testimonial-cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.testimonial-card {
+    background: #1a1a1a;
+    padding: 30px;
+    border-radius: 10px;
+    width: 260px;
+}
+
+.testimonial-card p {
+    color: #aaa;
+    margin-bottom: 15px;
+}
+
+.testimonial-card h4 {
+    color: #fff;
+}
