@@ -126,3 +126,41 @@ header {
 .benefit-card p {
     color: #aaa;
 }
+
+.features {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    padding: 80px 8%;
+}
+
+.feature-image img {
+    width: 450px;
+    border-radius: 10px;
+}
+
+.feature-text {
+    max-width: 450px;
+}
+
+.feature-text h2 {
+    color: #fff;
+    font-style: 32px;
+    margin-bottom: 20px;
+}
+
+.feature-text p {
+    color: #aaa;
+    margin-bottom: 20px;
+}
+
+.feature-text ul {
+    list-style: none;
+    margin-bottom: 25px;
+}
+
+.feature-text {
+    color: #ddd;
+    margin-bottom: 10px;
+}
