@@ -60,13 +60,13 @@ header {
     max-width: 500px;
 }
 
-.hero-text h1{
+.hero-text h1 {
     font-size: 48px;
     color: #fff;
     margin-bottom: 20px;
 }
 
-.hero-text p{
+.hero-text p {
     color: #aaa;
     margin-bottom: 30px;
 }
@@ -96,7 +96,7 @@ header {
     cursor: pointer;
 }
 
-.hero-image img{
+.hero-image img {
     width: 450px;
     border-radius: 10px;
 }
@@ -203,7 +203,59 @@ header {
     margin-bottom: 20px;
 }
 
-.cta p{
+.cta p {
     color: #aaa;
     margin-bottom: 30px;
+}
+
+.footer {
+    background: #111;
+    padding: 60px 8% 20px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+
+    margin-bottom: 40px;
+}
+
+.footer-logo h3 {
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.footer-logo p {
+    color: #aaa;
+    max-width: 250px;
+}
+
+.footer-links h4,
+.footer-social h4 {
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+.footer-links ul {
+    list-style: none;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #aaa;
+}
+
+.footer-links li {
+    margin-bottom: 8px;
+}
+
+.footer-bottom {
+    text-align: center;
+    border-top: 1px solid #222;
+    padding-top: 20px;
+}
+
+.footer-bottom p {
+    color: #777;
 }
