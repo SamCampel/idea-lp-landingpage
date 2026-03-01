@@ -190,3 +190,20 @@ header {
 .testimonial-card h4 {
     color: #fff;
 }
+
+.cta {
+    padding: 80px 8%;
+    text-align: center;
+    background: #181818;
+}
+
+.cta h2 {
+    color: #fff;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.cta p{
+    color: #aaa;
+    margin-bottom: 30px;
+}
