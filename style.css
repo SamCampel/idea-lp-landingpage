@@ -100,3 +100,29 @@ header {
     width: 450px;
     border-radius: 10px;
 }
+
+.benefits {
+    padding: 80px 8%;
+}
+
+.section-title {
+    text-align: center;
+    color: #fff;
+    font-size: 32px;
+    margin-bottom: 50px;
+}
+
+.benefits-cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.benefit-card {
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.benefit-card p {
+    color: #aaa;
+}
